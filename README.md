@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 # flutter_demo
 
 <div style="display:flex">
-    <img src="assets/images/screens/Screenshot_2022-08-30-16-54-25-184_com.example.demo.jpg" alt="Home" >
+    <img src="assets/images/screens/Screenshot_2022-08-30-16-54-25-184_com.example.demo.jpg" width="70%" alt="Home" >
     <img src="assets/images/screens/Screenshot_2022-08-30-16-54-30-505_com.example.demo.jpg" alt="Refer and Earn" >
     <img src="assets/images/screens/Screenshot_2022-08-30-16-54-33-338_com.example.demo.jpg" alt="Wallet" >
 </div>
