@@ -1,6 +1,6 @@
-# demo
+# Flutter Demo 
 
-A new Flutter project.
+A new Flutter demo project, a betting application.
 
 ## Getting Started
 
